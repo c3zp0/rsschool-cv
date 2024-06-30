@@ -12,7 +12,24 @@ Hello! My name is Siarhei, and I am a passionate and motivated developer with a 
 
 ## Skills
 
-@TODO add this later
+| Skill                | Proficiency Level | Experience (Years) | Description                                      |
+|----------------------|-------------------|--------------------|--------------------------------------------------|
+| **Programming Languages**                                                                                        |
+| JavaScript           | Advanced          | 3                  | Developed several applications                   |
+| TypeScript           | Advanced          | 3                  | Developed several applications                   |
+| C#                   | Beginner          | 1                  | Some learning project                            |
+| **Web Development**                                                                                              |
+| HTML/CSS             | Beginner          | 0                  | Start with rs school course                      |
+| React                | Beginner          | 0                  | Started with rs school course                    |
+| **Database Management**                                                                                          |
+| Relations db        | Intermediate       | 3                  | Posgresql, mysql, oracle                         |
+| No Sql              | Beginner           | 1                  | Mongodb, dynamodb                                |
+| **Version Control**                                                                                              |
+| Git                 | Intermediate       | 3                  | Collaborations, pipelines                        |
+| **Other Technologies**                                                                                           |
+| Docker              | Intermediate      | 2                   | Containerization of applications                 |
+| RESTful APIs        | Intermediate      | 1.5                 | Developed and consumed APIs                      |
+| Agile/Scrum         | Beginner          | 1                   | Participated in Agile development processes      |
 
 ## Code example
 
