@@ -3,8 +3,8 @@
 ## Contacts
 
 - [Telegram](https://t.me/c3zp0)
--[Email](mailto:siarhei.me@gmail.com)
--[Discord: siarhei(@c3zp0)](https://discord.com/users/882514541563510806)
+- [Email](mailto:siarhei.me@gmail.com)
+- [Discord: siarhei(@c3zp0)](https://discord.com/users/882514541563510806)
 
 ## About
 
@@ -52,12 +52,12 @@ function customFlat(array){
 
 ## Experience
 
-Looking for something to this topic
+Looking for something to this topic\
 **@TODO** add new experience after rsschool courses
 
 ## Education level
 
-Bachelor degree in meme generation (main opponent to openai meme generation)
+Bachelor degree in meme generation (main opponent to openai meme generations)
 
 ## English
 
